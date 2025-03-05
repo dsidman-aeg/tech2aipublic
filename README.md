@@ -1,6 +1,6 @@
-# From Software Engineering to AI Data Scientist
+# Data Scientist
 
-## For software engineers exploring a career move into Data Science, GenAI, LLMs
+##  Data Science, GenAI, LLMs
 
 This is code to accompany my course on transitioning from a technical career to AI Data Science.  
 
